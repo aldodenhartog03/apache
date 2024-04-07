@@ -1,6 +1,6 @@
 galaxy_info:
   author: Aldo
-  description: installs apaceh
+  description: installs apache
   company: Windesheim
   role_name: apache
   namespace: aldodenhartog03
