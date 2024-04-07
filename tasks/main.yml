@@ -1,0 +1,6 @@
+---
+- name: install apache on vm1
+  apt:
+    name: apache2
+    state: present
+  when: "'vm1' in inventory_hostname"
