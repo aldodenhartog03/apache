@@ -1,9 +1,9 @@
 galaxy_info:
-  author: Jelle
-  description: Installs PHP-MySQL on a system.
+  author: Aldo
+  description: installs apaceh
   company: Windesheim
-  role_name: php-mysql
-  namespace: LemonJelle
+  role_name: apache
+  namespace: aldodenhartog03
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
